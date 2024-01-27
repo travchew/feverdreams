@@ -1,0 +1,1 @@
+if CLICK room_goto_next();
